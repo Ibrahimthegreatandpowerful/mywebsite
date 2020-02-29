@@ -1,0 +1,43 @@
+<! doctype html>
+<html>
+<head>
+<title>new page</title>
+<style>
+.mytab{
+	border:2px dotted black;
+	
+
+
+
+
+}
+
+
+</style>
+</head>
+<body>
+
+<table class="mytab">
+<tr> 
+<th>table heading</th>
+<td>table data</td>
+ </tr>
+<tr>
+<th>table heading</th>
+<td>table data</td>
+</tr>
+<tr>
+<th>table heading</th>
+<td>table data</td>
+</tr>
+<tr>
+<th>table heading</th>
+<td>table data</td>
+</tr>
+
+
+
+
+
+</body>
+</html>
